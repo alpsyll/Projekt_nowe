@@ -9,3 +9,5 @@ print("ZMIENIAM W BIAŁYM")
 print("dodaje commitem wewnętrznym")
 
 print("ZAJEBIŚCIE")
+
+print("bober kurwuś")
