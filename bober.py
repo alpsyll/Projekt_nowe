@@ -5,3 +5,5 @@ print("lew laki")
 print("ZMIENIAM W CZARNYM")
 
 print("ZMIENIAM W BIAŁYM")
+
+print("dodaje commitem wewnętrznym")
