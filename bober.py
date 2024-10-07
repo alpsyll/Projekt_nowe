@@ -11,3 +11,5 @@ print("dodaje commitem wewnętrznym")
 print("ZAJEBIŚCIE")
 
 print("bober kurwuś")
+
+print("dodaj")
